@@ -1,0 +1,9 @@
+package_rename_config:
+  android:
+    app_name: "Teleprac"
+    package_name: "com.teleprac.teleprac"
+
+  ios:
+    app_name: "Teleprac"
+    package_name: "com.teleprac.teleprac"
+

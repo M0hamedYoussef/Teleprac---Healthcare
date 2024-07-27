@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "449697263178",
+    "project_id": "teleprac",
+    "storage_bucket": "teleprac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449697263178:android:deb91a4d7ab39e4a2900b3",
+        "android_client_info": {
+          "package_name": "com.hoest.teleprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449697263178-d3dokoukfru0ct3eqivb43ge9opeiahe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoest.teleprac",
+            "certificate_hash": "ce4b4cf2f66fa207bc05bf3caa0ac3d2de0fd6c3"
+          }
+        },
+        {
+          "client_id": "449697263178-langjqbe2p9jg0jsm2pkmdqh05qbcu36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoest.teleprac",
+            "certificate_hash": "6f6e6d0630beea754606e630fa63847cf093d34b"
+          }
+        },
+        {
+          "client_id": "449697263178-loitohua90sjm58cegpnsabnqc6326qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17LWQssJFPgXgnA9GfVHCoYhG49g86Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449697263178-loitohua90sjm58cegpnsabnqc6326qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449697263178:android:771558f962bb40a02900b3",
+        "android_client_info": {
+          "package_name": "com.teleprac.teleprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449697263178-loitohua90sjm58cegpnsabnqc6326qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17LWQssJFPgXgnA9GfVHCoYhG49g86Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449697263178-loitohua90sjm58cegpnsabnqc6326qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
